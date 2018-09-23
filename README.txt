@@ -1,2 +1,3 @@
 Ce repository présente un sommaire de cours générique en vue d'une présentation orale destinée à des stagiaires ou étudiants en développement web.
 Le cours à pour objectif d'initier et de sensibiliser les stagiaires ou etudiants aux différentes étapes ou notions de base à acquérir lors de la création d'un projet web.
+Ce cours peut durer 2h ou plus, en fonction du discours et des arguments à apporter autour.
