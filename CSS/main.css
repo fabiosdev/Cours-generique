@@ -60,30 +60,35 @@ li ol li ol li {
   transition-duration: 0.5s;
 }
 
-/* line 14, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+/* line 13, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+.legend {
+  padding: 2rem;
+}
+
+/* line 15, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
 .container {
   padding: 2rem;
   box-shadow: 1px 0 20px 0.5px #CCC;
   background-color: #fff;
 }
 
-/* line 18, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+/* line 19, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
 .container ul li {
   padding: .5rem 0 .5rem;
 }
 
-/* line 20, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+/* line 21, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
 .container ul li h2 {
   margin: 0;
   padding: .6rem;
 }
 
-/* line 21, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+/* line 22, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
 .container ul li ol li {
   padding: .5rem;
 }
 
-/* line 23, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+/* line 24, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
 .container li.part:last-child {
   border-top: 1px solid #ccc;
   padding-top: 3rem;
