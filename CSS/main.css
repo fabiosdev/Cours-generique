@@ -1,0 +1,92 @@
+/* line 2, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+* {
+  box-sizing: border-box;
+}
+
+/* line 3, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+body {
+  padding: 0;
+  background-color: #eee;
+  font-family: 'Raleway', sans-serif;
+}
+
+/* line 4, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+h1 {
+  padding: 2rem;
+  margin: 0;
+}
+
+/* line 5, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+h2 {
+  font-size: 1.5rem;
+}
+
+/* line 6, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+a, a:active {
+  outline: none;
+  text-decoration: none;
+}
+
+/* line 7, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+b {
+  font-weight: 600;
+}
+
+/* line 8, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+/* line 9, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+li ol li ol li {
+  list-style: square;
+}
+
+/* line 10, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+.part ol.content, .part div.content {
+  display: none;
+}
+
+/* line 11, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+.part h2, .show {
+  cursor: pointer;
+  transition-duration: 0.5s;
+}
+
+/* line 12, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+.part h2:hover {
+  background-color: #eee;
+  transition-duration: 0.5s;
+}
+
+/* line 14, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+.container {
+  padding: 2rem;
+  box-shadow: 1px 0 20px 0.5px #CCC;
+  background-color: #fff;
+}
+
+/* line 18, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+.container ul li {
+  padding: .5rem 0 .5rem;
+}
+
+/* line 20, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+.container ul li h2 {
+  margin: 0;
+  padding: .6rem;
+}
+
+/* line 21, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+.container ul li ol li {
+  padding: .5rem;
+}
+
+/* line 23, /Users/fabdev78/Desktop/GIT GitHub/Cours generique/css/scss/main.scss */
+.container li.part:last-child {
+  border-top: 1px solid #ccc;
+  padding-top: 3rem;
+}
+
+/*# sourceMappingURL=../main.map */

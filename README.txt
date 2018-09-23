@@ -1,0 +1,1 @@
+Ce repository présente un sommaire de cours générique en vue d'une présentation orale destinée à des stagiaires ou étudiants en développement web
